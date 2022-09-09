@@ -1,0 +1,12 @@
+C:\Users\Davide\source\github\City\City\bin\Debug\net6.0\City.deps.json
+C:\Users\Davide\source\github\City\City\bin\Debug\net6.0\City.dll
+C:\Users\Davide\source\github\City\City\bin\Debug\net6.0\City.pdb
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\City.csproj.AssemblyReference.cache
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\City.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\City.AssemblyInfoInputs.cache
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\City.AssemblyInfo.cs
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\City.csproj.CoreCompileInputs.cache
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\City.dll
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\refint\City.dll
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\City.pdb
+C:\Users\Davide\source\github\City\City\obj\Debug\net6.0\ref\City.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMAqevvxKUQ5DEt15kroIZ84VuAL6ZOvvavEh2mH1Lm5eFX2JyggqfZyqyNVcYriBn4SUHXvzwqm4optdmb3oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Davide\\source\\github\\City\\City\\City.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Davide\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Davide\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Davide\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Davide\\.nuget\\packages\\vortice.mathematics\\1.4.18\\vortice.mathematics.1.4.18.nupkg.sha512"
+  ],
+  "logs": []
+}
